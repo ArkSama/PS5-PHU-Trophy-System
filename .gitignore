@@ -1,0 +1,22 @@
+# Build artifacts
+*.o
+*.d
+*.a
+*.so
+*.elf
+
+# Backup files
+*.bak
+*.bak_*
+*.orig
+*~
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# OS
+Thumbs.db
+desktop.ini
