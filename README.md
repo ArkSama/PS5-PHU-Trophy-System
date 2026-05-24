@@ -189,4 +189,9 @@ guarantee, if you brick your console it's on you.
 - Patches are firmware-specific, byte-exact verified. If you run on an
   unsupported fw, the code skips cleanly (`fw not supported`).
 
+------------------------------------------------------------------------
+If you like my work you can help me by supporting me via Ko-fi
+Arksama
+https://ko-fi.com/arksama27554
+
 Team PHU Discord for code feedback.
